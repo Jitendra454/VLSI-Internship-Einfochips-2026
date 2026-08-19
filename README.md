@@ -1,1 +1,0 @@
-# VLSI-Internship-Einfochips-2026
